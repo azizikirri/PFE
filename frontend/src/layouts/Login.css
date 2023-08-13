@@ -1,0 +1,22 @@
+.login-container{
+    width: 60% ;
+    color: rgb(255, 255, 255);
+    background-color: #271024;
+    padding: 20px;
+    border-radius: 5px;
+   
+}
+.button-sub {
+    background-color: #750062 ;
+    border: none;
+    width: 100%;
+    font-size:large ;
+    font-weight: 600;
+}
+.button-sub:hover{
+    background-color:#9c0082 ;
+    
+}
+input[type=password]{
+    background-color: none;
+}

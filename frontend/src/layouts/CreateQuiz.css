@@ -1,0 +1,60 @@
+.form-container{
+    background-color: #400439;
+    width: 90%;
+    padding-bottom: 20px;
+ }
+ 
+Form{
+    color: white;
+    background-color: #79036b;
+    padding: 10px;
+}
+.q-container{
+    background-color: rgb(48, 10, 56);
+    padding: 8px;
+    margin: 4px;
+}
+.Q-section{
+    background-color: #2e0129;
+    height: 180px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.option-row{
+    height: auto;
+    padding: 4px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    
+    
+}
+.option-col{
+  width: 90%;
+  
+  height: 150px;
+  box-sizing: border-box;
+  margin-bottom: 46px;
+  /* background-color: #c425b4; */
+  padding: 10px;
+}
+.option-section{
+    background-color: #490341;
+    height: 100%    ;
+    color: white;
+    
+}
+.last-buttons{
+    width: 38%;
+    text-align: center;
+    margin: 0 auto;
+}
+.time-title{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #120212;
+    padding-bottom: 20px;
+}
+.t{
+    width: 112%;
+}
